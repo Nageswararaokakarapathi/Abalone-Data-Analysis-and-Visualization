@@ -208,11 +208,7 @@ Abalone_Analysis_Visualization/
 ├── Notebook/
 │   └── Abalone_Analysis.ipynb
 │
-├── Report/
-│   └── Project_Report.pdf
-│
 ├── requirements.txt
-├── LICENSE
 └── README.md
 ```
 
