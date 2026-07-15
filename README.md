@@ -274,8 +274,8 @@ Abalone_Analysis_Visualization/
 - Power BI
 - Data Visualization
 
-GitHub:
-https://github.com/Nageswararaokakarapathi
+Linkedin:
+(https://www.linkedin.com/in/durganageswararao)
 
 ---
 
